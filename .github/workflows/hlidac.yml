@@ -1,0 +1,62 @@
+name: Hlídač Pokémonů
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"     # každých 5 minut (GitHub to občas o pár minut zpozdí)
+  workflow_dispatch:           # tlačítko "Run workflow" pro ruční spuštění
+
+permissions:
+  contents: write              # aby mohl uložit stav.json
+
+concurrency:
+  group: hlidac
+  cancel-in-progress: false
+
+jobs:
+  kontrola:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: Europe/Prague
+    steps:
+      - name: Stáhnout soubory
+        uses: actions/checkout@v6
+
+      - name: Připravit Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Nainstalovat Playwright
+        run: pip install -r requirements.txt
+
+      - name: Načíst uložený prohlížeč
+        uses: actions/cache@v5
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+
+      - name: Nainstalovat prohlížeč
+        run: |
+          python -m playwright install --with-deps chromium
+          command -v xvfb-run || sudo apt-get install -y xvfb
+
+      - name: Zkontrolovat obchody
+        env:
+          NTFY_TEMA: ${{ secrets.NTFY_TEMA }}
+        run: xvfb-run -a python pokemon_hlidac.py --github
+
+      - name: Uložit stav
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stav.json || exit 0
+          if git diff --cached --quiet; then
+            echo "Stav se nezměnil."
+          else
+            git commit -m "Aktualizace stavu"
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          fi
