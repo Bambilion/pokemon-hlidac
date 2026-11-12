@@ -1,0 +1,639 @@
+{
+ "_chyby": {},
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-booster/": {
+  "stav": "neznamo",
+  "nazev": "Pokémon TCG: 30th Celebration - Booster 299 Kč",
+  "obchod": "Cardstore"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-classic-collection-booster/": {
+  "stav": "neznamo",
+  "nazev": "Pokémon TCG: 30th Celebration - Classic Collection Booster 1 799 Kč",
+  "obchod": "Cardstore"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-elite-trainer-box/": {
+  "stav": "neznamo",
+  "nazev": "Pokémon TCG: 30th Celebration - Elite Trainer Box 3 799 Kč",
+  "obchod": "Cardstore"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-booster-bundle/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration - Booster Bundle",
+  "obchod": "Cardstore"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-tin-greninja-ex--sylveon-ex/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Tin - Greninja ex, Sylveon ex",
+  "obchod": "Cardstore"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-mini-tin-display/": {
+  "stav": "nedostupne",
+  "nazev": "Pokemon TCG: 30th Celebration - Mini Tin Display",
+  "obchod": "Cardstore"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-poster-collection/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration - Poster Collection",
+  "obchod": "Cardstore"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-pokemon-ex-box/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration - Pokémon ex Box",
+  "obchod": "Cardstore"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-binder-collection/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration - Binder Collection",
+  "obchod": "Cardstore"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-2-pack-blister/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration - 2 Pack Blister",
+  "obchod": "Cardstore"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-tech-sticker-collection/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration - Tech Sticker Collection",
+  "obchod": "Cardstore"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-ultra-premium-collection--umbreon-/": {
+  "stav": "pripravuje",
+  "nazev": "Pokémon TCG: 30th Celebration - Ultra Premium Collection (Umbreon)",
+  "obchod": "Cardstore"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-ultra-premium-collection--espeon--/": {
+  "stav": "pripravuje",
+  "nazev": "Pokémon TCG: 30th Celebration - Ultra Premium Collection (Espeon)",
+  "obchod": "Cardstore"
+ },
+ "https://www.cdmc.cz/boostery/pokemon-tcg--30th-celebration-booster/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Booster (5566)",
+  "obchod": "CDMC"
+ },
+ "https://www.cdmc.cz/premiove-kolekce/pokemon-tcg--30th-celebration-poster-collection/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Poster Collection (7218)",
+  "obchod": "CDMC"
+ },
+ "https://cernyrytir.cz/merch/detail/e7d0ab2a-587e-435c-b207-d863c7fb330e": {
+  "stav": "skladem",
+  "nazev": "Pokémon - 30th Celebration Battle Deck - Espeon ex",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/8ed7532d-254b-4d9b-839b-a63bd5b11ba9": {
+  "stav": "skladem",
+  "nazev": "Pokémon - 30th Celebration Battle Deck - Umbreon ex",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/92aa8844-8e45-46e6-85e4-2113fc6d598b": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon - 30th Celebration Binder Collection",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/aece689d-2854-4091-a86e-414f39bb3390": {
+  "stav": "skladem",
+  "nazev": "Pokémon - 30th Celebration Booster",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/c6431de7-e49c-46db-a03b-cfbeafa0eb61": {
+  "stav": "skladem",
+  "nazev": "Pokémon - 30th Celebration Booster - Simplified Chinese",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/47517394-b620-4713-8389-ce5779d94441": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon - 30th Celebration Elite Trainer Box",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/ff2bc696-7aa1-433a-a6ae-b75f960e70d4": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon - 30th Celebration Greninja ex Box",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/61521c5b-8964-4ad7-aec2-5feabb3e9215": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon - 30th Celebration Poster Collection",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/373847c4-c243-4434-9031-4f1a4cfd40e3": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon - 30th Celebration Sylveon ex Box",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/97ebd82f-e540-4abb-b8c8-5bb31fe091d5": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon - 30th Celebration Tin - Greninja",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/1c1a80b4-2f16-4e22-89bb-517d847ab016": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon - 30th Celebration Tin - Sylveon",
+  "obchod": "Černý rytíř"
+ },
+ "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-dream-painting-pikachu-figure-blind-box-chinese": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Dream Painting Pikachu Figure Blind Box (Chinese)",
+  "obchod": "Kitstore"
+ },
+ "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-booster-bundle-kopie": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Elite Trainer Box",
+  "obchod": "Kitstore"
+ },
+ "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-premium-deck-set-espeon-umbreon-japanese": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Premium Deck Set Espeon & Umbreon (Japanese)",
+  "obchod": "Kitstore"
+ },
+ "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-futuristic-box-japanese": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Futuristic Box (Japanese)",
+  "obchod": "Kitstore"
+ },
+ "https://www.najada.games/en/product/30th-celebration-mew-figure-collection-PPOLNY": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration: Mew Figure Collection",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-mewtwo-figure-collection-S5SWBS": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration: Mewtwo Figure Collection",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-umbreon-ex-battle-deck-SYCM5E": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration: Umbreon ex Battle Deck",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-espeon-ex-battle-deck-6SJ6ZT": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration: Espeon ex Battle Deck",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-zapdos-hisuian-zorua-mini-tin-MQKJXI": {
+  "stav": "skladem",
+  "nazev": "30th Celebration: Zapdos & Hisuian Zorua Mini Tin",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-pikachu-vivillon-mini-tin-OW2CR8": {
+  "stav": "skladem",
+  "nazev": "30th Celebration: Pikachu & Vivillon Mini Tin",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-umbreon-alolan-meowth-mini-tin-52DH9Y": {
+  "stav": "skladem",
+  "nazev": "30th Celebration: Umbreon & Alolan Meowth Mini Tin",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-pikachu-toxtricity-mini-tin-U1V1TL": {
+  "stav": "skladem",
+  "nazev": "30th Celebration: Pikachu & Toxtricity Mini Tin",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-moltres-articuno-mini-tin-32GSG1": {
+  "stav": "skladem",
+  "nazev": "30th Celebration: Moltres & Articuno Mini Tin",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-mewtwo-scraggy-mini-tin-X24RT7": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration: Mewtwo & Scraggy Mini Tin",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-lapras-drifloon-mini-tin-FUAVVW": {
+  "stav": "skladem",
+  "nazev": "30th Celebration: Lapras & Drifloon Mini Tin",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-greninja-volbeat-mini-tin-RCRRNH": {
+  "stav": "skladem",
+  "nazev": "30th Celebration: Greninja & Volbeat Mini Tin",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-espeon-meowth-mini-tin-P55SH1": {
+  "stav": "skladem",
+  "nazev": "30th Celebration: Espeon & Meowth Mini Tin",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-mew-alolan-exeggutor-mini-tin-B49XL6": {
+  "stav": "skladem",
+  "nazev": "30th Celebration: Mew & Alolan Exeggutor Mini Tin",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-booster-bundle-B6A4GP": {
+  "stav": "skladem",
+  "nazev": "30th Celebration Booster Bundle",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-sylveon-ex-tin-6PS15I": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration Sylveon ex Tin",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-greninja-ex-tin-XDOAXY": {
+  "stav": "skladem",
+  "nazev": "30th Celebration Greninja ex Tin",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-binder-collection-IB2I7E": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration Binder Collection",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-greninja-ex-box-WRTKRU": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration: Greninja ex Box",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-sylveon-ex-box-Y2GSPN": {
+  "stav": "skladem",
+  "nazev": "30th Celebration: Sylveon ex Box",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-eevee-2-pack-blister-WXB2NG": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration: Eevee 2-Pack Blister",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-poster-collection-M7YXI6": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration Poster Collection",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-elite-trainer-box-DJ8BID": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration Elite Trainer Box",
+  "obchod": "Najáda"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-ditto-premium-collection/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Ditto Premium Collection",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-figure-collection-mew/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Figure Collection - Mew",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-figure-collection-mewtwo/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Figure Collection - Mewtwo",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-poster-collection/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Poster Collection",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-tech-sticker-collection/": {
+  "stav": "predobjednavka",
+  "nazev": "Pokémon TCG: 30th Celebration Tech Sticker Collection",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-ultra-premium-collection-day/": {
+  "stav": "predobjednavka",
+  "nazev": "Pokémon TCG: 30th Celebration Ultra Premium Collection - Day",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-ultra-premium-collection-night/": {
+  "stav": "predobjednavka",
+  "nazev": "Pokémon TCG: 30th Celebration Ultra Premium Collection - Night",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-japan-30th-celebration-booster-pack/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG Japan: 30th Celebration Booster Pack",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-battle-deck/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Battle Deck",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-2-pack-blister/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration 2-Pack Blister",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-binder-collection/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Binder Collection",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-booster-bundle/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Booster Bundle",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-elite-trainer-box/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Elite Trainer Box",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-ex-tin/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Ex Tin",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-greninja-ex-box/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Greninja ex Box",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-mini-tin/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Mini Tin",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-pokemon-center-elite-trainer-box/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Pokémon Center Elite Trainer Box",
+  "obchod": "Nekonečno"
+ },
+ "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-sylveon-ex-box/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Sylveon ex Box",
+  "obchod": "Nekonečno"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-battle-deck---nahodna-varianta/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Battle Deck",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-booster-bundle/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Booster Bundle",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-elite-trainer-box/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Elite Trainer Box",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-figure-collection-mew/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Figure Collection - Mew",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-figure-collection-mewtwo/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Figure Collection - Mewtwo",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-poster-collection/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Poster Collection",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration---sberatelske-album--bez-boosteru/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration – sběratelské album (bez boosterů)",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-2-pack-blister/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration 2-Pack Blister",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-binder-collection/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Binder Collection",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-booster/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Booster",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-ditto-premium-collection/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Ditto Premium Collection",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-ex-tin---nahodna-varianta/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration ex Tin",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-greninja-ex-box/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Greninja ex Box",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-mini-tin---1-nahodny-motiv/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Mini Tin",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-sylveon-ex-box/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Sylveon ex Box",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-tech-sticker-collection---nahodna-varianta/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Tech Sticker Collection",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-ultra-premium-collection---day/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Ultra-Premium Collection – Day",
+  "obchod": "Realmerch"
+ },
+ "https://www.realmerch.store/pokemon-tcg--30th-celebration-ultra-premium-collection---night/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration Ultra-Premium Collection – Night",
+  "obchod": "Realmerch"
+ },
+ "https://www.vesely-drak.cz/produkty/booster-boxy/19140-pokemon-30th-celebration-booster-bundle/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Booster Bundle",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plechovky/19142-pokemon-30th-celebration-day-and-night-mini-tin-espeon/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Day and Night Mini Tin - Espeon",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plechovky/19154-pokemon-30th-celebration-day-and-night-mini-tin-pikachu/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Day and Night Mini Tin - Pikachu",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plechovky/19155-pokemon-30th-celebration-day-and-night-mini-tin-mew/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Day and Night Mini Tin - Mew",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plechovky/19156-pokemon-30th-celebration-day-and-night-mini-tin-lapras/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Day and Night Mini Tin - Lapras",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plechovky/19157-pokemon-30th-celebration-day-and-night-mini-tin-moltres/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Day and Night Mini Tin - Moltres",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plechovky/19158-pokemon-30th-celebration-day-and-night-mini-tin-zapdos/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Day and Night Mini Tin - Zapdos",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plechovky/19159-pokemon-30th-celebration-day-and-night-mini-tin-umbreon/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Day and Night Mini Tin - Umbreon",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plechovky/19160-pokemon-30th-celebration-day-and-night-mini-tin-mewtwo/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Day and Night Mini Tin - Mewtwo",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plechovky/19161-pokemon-30th-celebration-day-and-night-mini-tin-pikachu-a-toxtricity/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Day and Night Mini Tin - Pikachu a Toxtricity",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plechovky/19163-pokemon-30th-celebration-day-and-night-mini-tin-greninja/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Day and Night Mini Tin - Greninja",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/booster-boxy/19760-pokemon-30th-celebration-booster-bundle-nariznuta-folie/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Booster Bundle - naříznutá folie",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-gx-box/19133-pokemon-30th-celebration-poster-collection-1x-plakat-3x-booster-3x-promo-karta/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Poster Collection (1x plakát, 3x booster, 3x promo karta)",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-gx-box/19136-pokemon-30th-celebration-greninja-ex-box/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Greninja ex Box",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-gx-box/19137-pokemon-30th-celebration-sylveon-ex-box/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Sylveon ex Box",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/specialni-sety/19139-pokemon-30th-celebration-2-pack-blister-eevee/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration 2 Pack Blister - Eevee",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/specialni-sety/19143-pokemon-30th-celebration-binder-collection-album-na-karty-5x-booster/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Binder Collection (Album na karty + 5x Booster)",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-elite-trainer-box/19132-pokemon-30th-celebration-elite-trainer-box/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Elite Trainer Box",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/boostery/19141-pokemon-30th-celebration-booster/": {
+  "stav": "pripravuje",
+  "nazev": "Pokémon 30th Celebration Booster",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-elite-trainer-box/19655-pokemon-30th-celebration-elite-trainer-box-2-jakost/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Elite Trainer Box - 2. jakost",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/specialni-sety/19134-pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor/": {
+  "stav": "pripravuje",
+  "nazev": "Pokémon 30th Celebration Tech Sticker Collection - Alolan Exeggutor",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/specialni-sety/19135-pokemon-30th-celebration-tech-sticker-collection-lucario/": {
+  "stav": "pripravuje",
+  "nazev": "Pokémon 30th Celebration Tech Sticker Collection - Lucario",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/specialni-sety/19138-pokemon-30th-celebration-knock-out-collection-eevee/": {
+  "stav": "pripravuje",
+  "nazev": "Pokémon 30th Celebration Knock Out Collection - Eevee",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/specialni-sety/19146-pokemon-30th-celebration-ultra-premium-collection-day/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Ultra-Premium Collection - Day",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/specialni-sety/19147-pokemon-30th-celebration-ultra-premium-collection-night/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Ultra-Premium Collection - Night",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/specialni-sety/19148-pokemon-30th-celebration-ditto-premium-collection/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Ditto Premium Collection",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/specialni-sety/19150-pokemon-30th-celebration-mewtwo-figure-collection/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon 30th Celebration Mewtwo Figure Collection",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/specialni-sety/19151-pokemon-30th-celebration-mew-figure-collection/": {
+  "stav": "pripravuje",
+  "nazev": "Pokémon 30th Celebration Mew Figure Collection",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plechovky/19152-plechovka-pokemon-30th-celebration-tin-greninja-ex/": {
+  "stav": "nedostupne",
+  "nazev": "Plechovka Pokémon 30th Celebration Tin - Greninja ex",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plechovky/19153-plechovka-pokemon-30th-celebration-tin-sylveon-ex/": {
+  "stav": "nedostupne",
+  "nazev": "Plechovka Pokémon 30th Celebration Tin - Sylveon ex",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plysove-hracky/19557-pokemon-plysak-30th-anniversary-pikachu-20-cm/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon plyšák 30th Anniversary Pikachu - 20 cm",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plysove-hracky/19558-pokemon-plysak-30th-anniversary-espeon-20-cm/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon plyšák 30th Anniversary Espeon - 20 cm",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plysove-hracky/19559-pokemon-plysak-30th-anniversary-morpeko-20-cm/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon plyšák 30th Anniversary Morpeko - 20 cm",
+  "obchod": "Veselý drak"
+ },
+ "https://www.vesely-drak.cz/produkty/pokemon-plysove-hracky/19560-pokemon-plysak-30th-anniversary-vulpix-20-cm/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon plyšák 30th Anniversary Vulpix - 20 cm",
+  "obchod": "Veselý drak"
+ },
+ "https://www.xzone.cz/karetni-hra-pokemon-tcg-30th-celebration-battle-deck-espeon-ex": {
+  "stav": "skladem",
+  "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Battle Deck: Espeon ex",
+  "obchod": "Xzone"
+ },
+ "https://www.xzone.cz/karetni-hra-pokemon-tcg-30th-celebration-battle-deck-umbreon-ex": {
+  "stav": "skladem",
+  "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Battle Deck: Umbreon ex",
+  "obchod": "Xzone"
+ },
+ "https://www.xzone.cz/karetni-hra-pokemon-tcg-30th-celebration-tech-sticker-collection-lucario": {
+  "stav": "pripravuje",
+  "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Tech Sticker Collection Lucario",
+  "obchod": "Xzone"
+ },
+ "https://www.xzone.cz/karetni-hra-pokemon-tcg-30th-celebration-tech-sticker-collection-alolan-exeggutor": {
+  "stav": "pripravuje",
+  "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Tech Sticker Collection Alolan Exeggutor",
+  "obchod": "Xzone"
+ },
+ "_den": "2026-11-12"
+}
