@@ -1,5 +1,9 @@
 {
- "_chyby": {},
+ "_chyby": {
+  "https://www.alza.cz/search.htm?exps=30th%20Celebration": 1,
+  "https://www.najada.games/en/pokemon/30th-celebration": 1,
+  "https://www.smarty.cz/Vyhledavani?query=Pok%C3%A9mon+TCG+30th+Celebration": 1
+ },
  "https://www.cardstore.cz/pokemon-tcg--30th-celebration-booster/": {
   "stav": "neznamo",
   "nazev": "Pokémon TCG: 30th Celebration - Booster 299 Kč",
