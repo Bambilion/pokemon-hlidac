@@ -145,13 +145,20 @@ JS_PRODUKTY = r"""
     const sel = tr ? 'a.' + CSS.escape(tr) : 'a[href]';
     const jinych = el => new Set(Array.from(el.querySelectorAll(sel)).map(x => abs(x.getAttribute('href')))
                                    .filter(u => u && u !== url)).size;
+    // karta nesmí přerůst v záhlaví, menu nebo celou stránku (filtr "Skladem" v záhlaví = falešné nálezy)
+    const castWebu = el => el.matches('[role=navigation], [role=search]')
+      || (el.matches('header, nav, footer, aside') && el.querySelectorAll('a[href]').length > 8);
+    const jakoStranka = el => el.matches('main') || castWebu(el)
+      || !!el.querySelector('nav, [role=search], [role=navigation], input[type=search], input[name=q], input[name=exps], input[name=string], input[name=term], input[name=query], input[name*=search i]')
+      || el.querySelectorAll('a[href]').length > 40 || (el.innerText || '').length > 3000;
+    let predek = a.parentElement, vMenu = false;
+    while (predek && predek !== document.body) { if (castWebu(predek)) { vMenu = true; break; } predek = predek.parentElement; }
+    if (vMenu) continue;
     let box = a;
-    while (box.parentElement && box.parentElement !== document.body && jinych(box.parentElement) === 0) box = box.parentElement;
+    while (box.parentElement && box.parentElement !== document.body && jinych(box.parentElement) === 0
+           && !jakoStranka(box.parentElement)) box = box.parentElement;
     const text = (box.innerText || '').replace(/\s+/g, ' ').trim();
-    if (!PRODUKT.test(norm(text)) || text.length > 2500) continue;
-    // karta nesmí být záhlaví/menu stránky (filtr "Skladem" v záhlaví by dával falešné nálezy)
-    if (box.matches('header, nav') || box.querySelector('header, nav, [role=search], [role=navigation], input[type=search], input[name=q], input[name=exps], input[name=string], input[name=term], input[name=query], input[name*=search i]')
-        || box.querySelectorAll('a[href]').length > 30) continue;
+    if (!PRODUKT.test(norm(text)) || jakoStranka(box)) continue;
     const avl = box.querySelector('[class*="avail" i], [class*="avl" i], [class*="stock" i], [class*="dostupn" i], [class*="sklad" i]');
     vysledky.push({ url, nazev: nazev.slice(0, 150),
                     dostupnost: avl ? avl.innerText.replace(/\s+/g, ' ').trim().slice(0, 120) : '',
@@ -179,7 +186,8 @@ JS_DALSI_STRANKA = r"""
   const rel = document.querySelector('link[rel=next], a[rel=next]');
   if (rel && ok(rel.getAttribute('href'))) return ok(rel.getAttribute('href'));
   const odkazy = Array.from(document.querySelectorAll('a[href]'));
-  const t = odkazy.find(a => /^(dalsi|next|nasledujici|dalsia|›|»)(\s|>|›|»|$)/.test(norm(a.innerText)) && ok(a.getAttribute('href')));
+  const t = odkazy.find(a => /^(dalsi|next|nasledujici|dalsia)?(\s*(strana|stranka|page))?\s*(›|»|>)?$/.test(norm(a.innerText))
+                            && norm(a.innerText) !== '' && ok(a.getAttribute('href')));
   if (t) return ok(t.getAttribute('href'));
   const cur = new URL(location.href);
   const curPage = parseInt(cur.searchParams.get('page') || cur.searchParams.get('p') || '1', 10);
@@ -236,10 +244,7 @@ def prohledej_stranku(page, url: str) -> list[dict]:
     adresa = url
     for _ in range(MAX_STRANEK):
         odpoved = page.goto(adresa, wait_until="domcontentloaded", timeout=60_000)
-        if odpoved and odpoved.status in (401, 403, 429, 503):
-            raise PermissionError(f"obchod odmítl přístup (HTTP {odpoved.status})")
-        if odpoved and odpoved.status in (404, 410):
-            raise RuntimeError(f"stránka neexistuje (HTTP {odpoved.status}) – obchod ji asi přesunul, je potřeba upravit obchody.txt")
+        stav_http = odpoved.status if odpoved else 200
         try:
             page.wait_for_load_state("networkidle", timeout=8_000)
         except Exception:
@@ -258,6 +263,10 @@ def prohledej_stranku(page, url: str) -> list[dict]:
             if p["url"] not in videno:
                 videno.add(p["url"])
                 produkty.append(p)
+        if not produkty and stav_http in (401, 403, 429, 503):
+            raise PermissionError(f"obchod odmítl přístup (HTTP {stav_http})")
+        if not produkty and stav_http in (404, 410):
+            raise RuntimeError(f"stránka neexistuje (HTTP {stav_http}) – obchod ji asi přesunul, je potřeba upravit obchody.txt")
         if not produkty and (TICHY or os.getenv("HLIDAC_DIAGNOSTIKA")):
             print(f"     [diagnostika] {popis_stranky(page, odpoved)}", flush=True)
         dalsi = page.evaluate(JS_DALSI_STRANKA)
@@ -361,10 +370,19 @@ def spust_prohlizec(pw, rezim: str):
         argumenty += ["--window-position=-32000,-32000", "--window-size=1366,900"]
     volby = dict(headless=(rezim == "skryty"), locale="cs-CZ", viewport={"width": 1366, "height": 900},
                  user_agent=USER_AGENT, args=argumenty)
-    try:
-        ctx = pw.chromium.launch_persistent_context(str(PROFIL_PROHLIZECE), channel="chromium", **volby)
-    except Exception:
-        ctx = pw.chromium.launch_persistent_context(str(PROFIL_PROHLIZECE), **volby)
+    # při blokování zkusit skutečný Google Chrome (méně nápadný), jinak vestavěný Chromium
+    kanaly = ["chrome", "chromium", None] if rezim == "mimo_obrazovku" else ["chromium", None]
+    if rezim == "mimo_obrazovku":
+        volby.pop("user_agent")          # skutečný Chrome se představí sám
+    ctx = None
+    for kanal in kanaly:
+        try:
+            ctx = pw.chromium.launch_persistent_context(str(PROFIL_PROHLIZECE), **({"channel": kanal} if kanal else {}), **volby)
+            break
+        except Exception:
+            continue
+    if ctx is None:
+        raise RuntimeError("nepodařilo se spustit prohlížeč")
     # obrázky, videa a písma nestahujeme – kontrola je rychlejší a šetří data
     ctx.route("**/*", lambda route: route.abort()
               if route.request.resource_type in ("image", "media", "font") else route.continue_())
