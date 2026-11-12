@@ -149,6 +149,9 @@ JS_PRODUKTY = r"""
     while (box.parentElement && box.parentElement !== document.body && jinych(box.parentElement) === 0) box = box.parentElement;
     const text = (box.innerText || '').replace(/\s+/g, ' ').trim();
     if (!PRODUKT.test(norm(text)) || text.length > 2500) continue;
+    // karta nesmí být záhlaví/menu stránky (filtr "Skladem" v záhlaví by dával falešné nálezy)
+    if (box.matches('header, nav') || box.querySelector('header, nav, [role=search], [role=navigation], input[type=search], input[name=q], input[name=exps], input[name=string], input[name=term], input[name=query], input[name*=search i]')
+        || box.querySelectorAll('a[href]').length > 30) continue;
     const avl = box.querySelector('[class*="avail" i], [class*="avl" i], [class*="stock" i], [class*="dostupn" i], [class*="sklad" i]');
     vysledky.push({ url, nazev: nazev.slice(0, 150),
                     dostupnost: avl ? avl.innerText.replace(/\s+/g, ' ').trim().slice(0, 120) : '',
@@ -213,14 +216,30 @@ def je_blokovano(page) -> bool:
     except Exception:
         return False
     return any(k in t for k in ["just a moment", "verify you are human", "overte, ze jste clovek",
-                                "checking your browser", "access denied", "captcha"])
+                                "checking your browser", "access denied", "captcha", "pristup odepren",
+                                "pristup byl zablokovan", "request blocked", "forbidden", "too many requests",
+                                "unusual traffic", "enable javascript and cookies", "neobvykly provoz"])
+
+
+def popis_stranky(page, odpoved) -> str:
+    """Krátký popis načtené stránky pro diagnostiku (stav HTTP, nadpis, začátek textu)."""
+    try:
+        text = re.sub(r"\s+", " ", page.inner_text("body"))[:200]
+    except Exception:
+        text = "?"
+    stav = odpoved.status if odpoved else "?"
+    return f"HTTP {stav}, adresa {page.url[:90]}, nadpis „{page.title()[:60]}“, text: {text}"
 
 
 def prohledej_stranku(page, url: str) -> list[dict]:
     produkty, videno = [], set()
     adresa = url
     for _ in range(MAX_STRANEK):
-        page.goto(adresa, wait_until="domcontentloaded", timeout=60_000)
+        odpoved = page.goto(adresa, wait_until="domcontentloaded", timeout=60_000)
+        if odpoved and odpoved.status in (401, 403, 429, 503):
+            raise PermissionError(f"obchod odmítl přístup (HTTP {odpoved.status})")
+        if odpoved and odpoved.status in (404, 410):
+            raise RuntimeError(f"stránka neexistuje (HTTP {odpoved.status}) – obchod ji asi přesunul, je potřeba upravit obchody.txt")
         try:
             page.wait_for_load_state("networkidle", timeout=8_000)
         except Exception:
@@ -239,6 +258,8 @@ def prohledej_stranku(page, url: str) -> list[dict]:
             if p["url"] not in videno:
                 videno.add(p["url"])
                 produkty.append(p)
+        if not produkty and (TICHY or os.getenv("HLIDAC_DIAGNOSTIKA")):
+            print(f"     [diagnostika] {popis_stranky(page, odpoved)}", flush=True)
         dalsi = page.evaluate(JS_DALSI_STRANKA)
         if not dalsi or dalsi == adresa:
             break
