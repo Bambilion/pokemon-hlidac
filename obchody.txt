@@ -1,0 +1,17 @@
+# Seznam hlídaných stránek
+# Každý řádek:  Název obchodu ; adresa stránky (kategorie nebo vyhledávání)
+# Řádek začínající # se ignoruje. Obchod může mít víc řádků (víc stránek).
+
+Alza          ; https://www.alza.cz/search.htm?exps=30th%20Celebration
+Cardstore     ; https://www.cardstore.cz/30-vyroci-pokemon-karet/
+CDMC          ; https://www.cdmc.cz/30th-celebration/
+Černý rytíř   ; https://cernyrytir.cz/cat/pokemon?p=1&rpp=48&sort_by=
+Kitstore      ; https://www.kitstore.cz/pokemon-tcg-30th-celebration/
+Najáda        ; https://www.najada.games/en/pokemon/30th-celebration
+Nekonečno     ; https://www.nekonecno.sk/pokemon-30th-celebration/
+Realmerch     ; https://www.realmerch.store/30th-celebration/
+Smarty        ; https://www.smarty.cz/Vyhledavani?query=Pok%C3%A9mon+TCG+30th+Celebration
+Veselý drak   ; https://www.vesely-drak.cz/produkty/30-vyroci-pokemon/
+Xzone         ; https://www.xzone.cz/katalog.php?term=30th+Celebration
+Xzone         ; https://www.xzone.cz/sberatelske-hry-pokemon-tcg?sort=date_desc&s=60&page=1&term=&c=725
+Xzone         ; https://www.xzone.cz/pokemon-tcg-specialni-produkty?sort=date_desc&s=60
