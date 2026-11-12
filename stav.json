@@ -30,7 +30,7 @@
   "obchod": "Cardstore"
  },
  "https://www.cardstore.cz/pokemon-tcg--30th-celebration-mini-tin-display/": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "Pokemon TCG: 30th Celebration - Mini Tin Display",
   "obchod": "Cardstore"
  },
@@ -145,7 +145,7 @@
   "obchod": "Kitstore"
  },
  "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-premium-deck-set-espeon-umbreon-japanese": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon TCG: 30th Celebration Premium Deck Set Espeon & Umbreon (Japanese)",
   "obchod": "Kitstore"
  },
@@ -165,12 +165,12 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-umbreon-ex-battle-deck-SYCM5E": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration: Umbreon ex Battle Deck",
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-espeon-ex-battle-deck-6SJ6ZT": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration: Espeon ex Battle Deck",
   "obchod": "Najáda"
  },
@@ -225,7 +225,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-booster-bundle-B6A4GP": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration Booster Bundle",
   "obchod": "Najáda"
  },
@@ -255,12 +255,12 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-eevee-2-pack-blister-WXB2NG": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration: Eevee 2-Pack Blister",
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-poster-collection-M7YXI6": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration Poster Collection",
   "obchod": "Najáda"
  },
@@ -639,5 +639,15 @@
   "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Tech Sticker Collection Alolan Exeggutor",
   "obchod": "Xzone"
  },
- "_den": "2026-11-12"
+ "_den": "2026-11-12",
+ "https://www.najada.games/en/product/30th-celebration-espeon-ultra-premium-collection-FOUPGG": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration: Espeon Ultra-Premium Collection",
+  "obchod": "Najáda"
+ },
+ "https://www.najada.games/en/product/30th-celebration-ditto-premium-collection-XZS4Z3": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration: Ditto Premium Collection",
+  "obchod": "Najáda"
+ }
 }
