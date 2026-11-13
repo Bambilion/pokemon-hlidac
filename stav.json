@@ -30,7 +30,7 @@
   "obchod": "Cardstore"
  },
  "https://www.cardstore.cz/pokemon-tcg--30th-celebration-mini-tin-display/": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokemon TCG: 30th Celebration - Mini Tin Display",
   "obchod": "Cardstore"
  },
@@ -160,7 +160,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-mewtwo-figure-collection-S5SWBS": {
-  "stav": "nedostupne",
+  "stav": "neznamo",
   "nazev": "30th Celebration: Mewtwo Figure Collection",
   "obchod": "Najáda"
  },
@@ -639,7 +639,7 @@
   "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Tech Sticker Collection Alolan Exeggutor",
   "obchod": "Xzone"
  },
- "_den": "2026-11-12",
+ "_den": "2026-11-13",
  "https://www.najada.games/en/product/30th-celebration-espeon-ultra-premium-collection-FOUPGG": {
   "stav": "nedostupne",
   "nazev": "30th Celebration: Espeon Ultra-Premium Collection",
