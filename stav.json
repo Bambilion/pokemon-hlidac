@@ -140,7 +140,7 @@
   "obchod": "Kitstore"
  },
  "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-booster-bundle-kopie": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon TCG: 30th Celebration Elite Trainer Box",
   "obchod": "Kitstore"
  },
@@ -155,12 +155,12 @@
   "obchod": "Kitstore"
  },
  "https://www.najada.games/en/product/30th-celebration-mew-figure-collection-PPOLNY": {
-  "stav": "nedostupne",
+  "stav": "neznamo",
   "nazev": "30th Celebration: Mew Figure Collection",
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-mewtwo-figure-collection-S5SWBS": {
-  "stav": "nedostupne",
+  "stav": "neznamo",
   "nazev": "30th Celebration: Mewtwo Figure Collection",
   "obchod": "Najáda"
  },
@@ -260,7 +260,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-poster-collection-M7YXI6": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration Poster Collection",
   "obchod": "Najáda"
  },
@@ -305,7 +305,7 @@
   "obchod": "Nekonečno"
  },
  "https://www.nekonecno.sk/pokemon-tcg-japan-30th-celebration-booster-pack/": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon TCG Japan: 30th Celebration Booster Pack",
   "obchod": "Nekonečno"
  },
@@ -641,7 +641,7 @@
  },
  "_den": "2026-11-13",
  "https://www.najada.games/en/product/30th-celebration-espeon-ultra-premium-collection-FOUPGG": {
-  "stav": "nedostupne",
+  "stav": "neznamo",
   "nazev": "30th Celebration: Espeon Ultra-Premium Collection",
   "obchod": "Najáda"
  },
@@ -669,5 +669,15 @@
   "stav": "predobjednavka",
   "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Ultra-Premium Collection - Night",
   "obchod": "Xzone"
+ },
+ "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-tech-sticker-collection": {
+  "stav": "predobjednavka",
+  "nazev": "Pokémon TCG: 30th Celebration Tech Sticker Collection",
+  "obchod": "Kitstore"
+ },
+ "https://www.najada.games/en/product/30th-celebration-umbreon-ultra-premium-collection-BW7SZX": {
+  "stav": "nedostupne",
+  "nazev": "30th Celebration: Umbreon Ultra-Premium Collection",
+  "obchod": "Najáda"
  }
 }
