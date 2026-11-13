@@ -260,7 +260,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-poster-collection-M7YXI6": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration Poster Collection",
   "obchod": "Najáda"
  },
@@ -649,5 +649,25 @@
   "stav": "nedostupne",
   "nazev": "30th Celebration: Ditto Premium Collection",
   "obchod": "Najáda"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-battle-deck--espeon-/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration -Battle Deck (Espeon ex)",
+  "obchod": "Cardstore"
+ },
+ "https://www.cardstore.cz/pokemon-tcg--30th-celebration-battle-deck--umbreon-ex-/": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration -Battle Deck (Umbreon ex)",
+  "obchod": "Cardstore"
+ },
+ "https://www.xzone.cz/karetni-hra-pokemon-tcg-30th-celebration-ultrapremium-collection-day": {
+  "stav": "predobjednavka",
+  "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Ultra-Premium Collection - Day",
+  "obchod": "Xzone"
+ },
+ "https://www.xzone.cz/karetni-hra-pokemon-tcg-30th-celebration-ultrapremium-collection-night": {
+  "stav": "predobjednavka",
+  "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Ultra-Premium Collection - Night",
+  "obchod": "Xzone"
  }
 }
