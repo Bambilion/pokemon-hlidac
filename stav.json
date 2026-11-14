@@ -140,7 +140,7 @@
   "obchod": "Kitstore"
  },
  "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-booster-bundle-kopie": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "Pokémon TCG: 30th Celebration Elite Trainer Box",
   "obchod": "Kitstore"
  },
@@ -639,7 +639,7 @@
   "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Tech Sticker Collection Alolan Exeggutor",
   "obchod": "Xzone"
  },
- "_den": "2026-11-13",
+ "_den": "2026-11-14",
  "https://www.najada.games/en/product/30th-celebration-espeon-ultra-premium-collection-FOUPGG": {
   "stav": "neznamo",
   "nazev": "30th Celebration: Espeon Ultra-Premium Collection",
@@ -676,7 +676,7 @@
   "obchod": "Kitstore"
  },
  "https://www.najada.games/en/product/30th-celebration-umbreon-ultra-premium-collection-BW7SZX": {
-  "stav": "nedostupne",
+  "stav": "neznamo",
   "nazev": "30th Celebration: Umbreon Ultra-Premium Collection",
   "obchod": "Najáda"
  }
