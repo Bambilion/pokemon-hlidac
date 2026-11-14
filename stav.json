@@ -140,7 +140,7 @@
   "obchod": "Kitstore"
  },
  "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-booster-bundle-kopie": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon TCG: 30th Celebration Elite Trainer Box",
   "obchod": "Kitstore"
  },
@@ -165,7 +165,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-umbreon-ex-battle-deck-SYCM5E": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Umbreon ex Battle Deck",
   "obchod": "Najáda"
  },
@@ -265,7 +265,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-elite-trainer-box-DJ8BID": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration Elite Trainer Box",
   "obchod": "Najáda"
  },
@@ -676,7 +676,7 @@
   "obchod": "Kitstore"
  },
  "https://www.najada.games/en/product/30th-celebration-umbreon-ultra-premium-collection-BW7SZX": {
-  "stav": "neznamo",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Umbreon Ultra-Premium Collection",
   "obchod": "Najáda"
  }
