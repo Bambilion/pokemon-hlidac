@@ -425,12 +425,12 @@
   "obchod": "Realmerch"
  },
  "https://www.realmerch.store/pokemon-tcg--30th-celebration-mini-tin---1-nahodny-motiv/": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "Pokémon TCG: 30th Celebration Mini Tin",
   "obchod": "Realmerch"
  },
  "https://www.realmerch.store/pokemon-tcg--30th-celebration-sylveon-ex-box/": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "Pokémon TCG: 30th Celebration Sylveon ex Box",
   "obchod": "Realmerch"
  },
@@ -651,7 +651,7 @@
   "obchod": "Najáda"
  },
  "https://www.cardstore.cz/pokemon-tcg--30th-celebration-battle-deck--espeon-/": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon TCG: 30th Celebration -Battle Deck (Espeon ex)",
   "obchod": "Cardstore"
  },
@@ -679,5 +679,15 @@
   "stav": "nedostupne",
   "nazev": "30th Celebration: Umbreon Ultra-Premium Collection",
   "obchod": "Najáda"
+ },
+ "https://www.cdmc.cz/premiove-kolekce/pokemon-tcg--30th-celebration-battle-deck-umbreon-ex-2--7270-/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Battle Deck - Umbreon ex 2 (7270)",
+  "obchod": "CDMC"
+ },
+ "https://www.cdmc.cz/premiove-kolekce/pokemon-tcg--30th-celebration-battle-deck-espeon-ex-1--7270-/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Battle Deck - Espeon ex 1 (7270)",
+  "obchod": "CDMC"
  }
 }
