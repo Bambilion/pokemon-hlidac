@@ -155,7 +155,7 @@
   "obchod": "Kitstore"
  },
  "https://www.najada.games/en/product/30th-celebration-mew-figure-collection-PPOLNY": {
-  "stav": "neznamo",
+  "stav": "skladem",
   "nazev": "30th Celebration: Mew Figure Collection",
   "obchod": "Najáda"
  },
@@ -250,7 +250,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-sylveon-ex-box-Y2GSPN": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Sylveon ex Box",
   "obchod": "Najáda"
  },
@@ -646,7 +646,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-ditto-premium-collection-XZS4Z3": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Ditto Premium Collection",
   "obchod": "Najáda"
  },
@@ -676,7 +676,7 @@
   "obchod": "Kitstore"
  },
  "https://www.najada.games/en/product/30th-celebration-umbreon-ultra-premium-collection-BW7SZX": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Umbreon Ultra-Premium Collection",
   "obchod": "Najáda"
  }
