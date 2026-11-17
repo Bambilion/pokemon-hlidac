@@ -155,22 +155,22 @@
   "obchod": "Kitstore"
  },
  "https://www.najada.games/en/product/30th-celebration-mew-figure-collection-PPOLNY": {
-  "stav": "nedostupne",
+  "stav": "neznamo",
   "nazev": "30th Celebration: Mew Figure Collection",
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-mewtwo-figure-collection-S5SWBS": {
-  "stav": "neznamo",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Mewtwo Figure Collection",
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-umbreon-ex-battle-deck-SYCM5E": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration: Umbreon ex Battle Deck",
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-espeon-ex-battle-deck-6SJ6ZT": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration: Espeon ex Battle Deck",
   "obchod": "Najáda"
  },
@@ -225,12 +225,12 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-booster-bundle-B6A4GP": {
-  "stav": "nedostupne",
+  "stav": "neznamo",
   "nazev": "30th Celebration Booster Bundle",
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-sylveon-ex-tin-6PS15I": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration Sylveon ex Tin",
   "obchod": "Najáda"
  },
@@ -240,12 +240,12 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-binder-collection-IB2I7E": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration Binder Collection",
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-greninja-ex-box-WRTKRU": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration: Greninja ex Box",
   "obchod": "Najáda"
  },
@@ -255,17 +255,17 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-eevee-2-pack-blister-WXB2NG": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Eevee 2-Pack Blister",
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-poster-collection-M7YXI6": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration Poster Collection",
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-elite-trainer-box-DJ8BID": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration Elite Trainer Box",
   "obchod": "Najáda"
  },
@@ -641,7 +641,7 @@
  },
  "_den": "2026-11-17",
  "https://www.najada.games/en/product/30th-celebration-espeon-ultra-premium-collection-FOUPGG": {
-  "stav": "nedostupne",
+  "stav": "neznamo",
   "nazev": "30th Celebration: Espeon Ultra-Premium Collection",
   "obchod": "Najáda"
  },
@@ -676,7 +676,7 @@
   "obchod": "Kitstore"
  },
  "https://www.najada.games/en/product/30th-celebration-umbreon-ultra-premium-collection-BW7SZX": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration: Umbreon Ultra-Premium Collection",
   "obchod": "Najáda"
  },
@@ -689,5 +689,15 @@
   "stav": "skladem",
   "nazev": "Pokémon TCG: 30th Celebration Battle Deck - Espeon ex 1 (7270)",
   "obchod": "CDMC"
+ },
+ "https://cernyrytir.cz/merch/detail/d1d4d0d1-df0d-4cae-ae1d-b2153ee30c31": {
+  "stav": "skladem",
+  "nazev": "Pokémon - 30th Celebration Figure Collection - Mew",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/95645e62-3d1a-470a-b3ea-243aab4e7a9e": {
+  "stav": "skladem",
+  "nazev": "Pokémon - 30th Celebration Figure Collection - Mewtwo",
+  "obchod": "Černý rytíř"
  }
 }
