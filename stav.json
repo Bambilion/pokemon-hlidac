@@ -95,7 +95,7 @@
   "obchod": "Černý rytíř"
  },
  "https://cernyrytir.cz/merch/detail/aece689d-2854-4091-a86e-414f39bb3390": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "Pokémon - 30th Celebration Booster",
   "obchod": "Černý rytíř"
  },
@@ -170,7 +170,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-espeon-ex-battle-deck-6SJ6ZT": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Espeon ex Battle Deck",
   "obchod": "Najáda"
  },
@@ -641,7 +641,7 @@
  },
  "_den": "2026-11-17",
  "https://www.najada.games/en/product/30th-celebration-espeon-ultra-premium-collection-FOUPGG": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Espeon Ultra-Premium Collection",
   "obchod": "Najáda"
  },
