@@ -255,7 +255,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-eevee-2-pack-blister-WXB2NG": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Eevee 2-Pack Blister",
   "obchod": "Najáda"
  },
@@ -676,7 +676,7 @@
   "obchod": "Kitstore"
  },
  "https://www.najada.games/en/product/30th-celebration-umbreon-ultra-premium-collection-BW7SZX": {
-  "stav": "neznamo",
+  "stav": "skladem",
   "nazev": "30th Celebration: Umbreon Ultra-Premium Collection",
   "obchod": "Najáda"
  },
@@ -698,6 +698,16 @@
  "https://cernyrytir.cz/merch/detail/95645e62-3d1a-470a-b3ea-243aab4e7a9e": {
   "stav": "skladem",
   "nazev": "Pokémon - 30th Celebration Figure Collection - Mewtwo",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/fb3c392d-21b6-45ec-9012-0537802b29d5": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon - 30th Celebration Ultra-Premium Collection - Espeon ex",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/f9b6d4a0-55ab-42dc-b944-dc08c490bc23": {
+  "stav": "nedostupne",
+  "nazev": "Pokémon - 30th Celebration Ultra-Premium Collection - Umbreon ex",
   "obchod": "Černý rytíř"
  }
 }
