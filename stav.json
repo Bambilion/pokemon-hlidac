@@ -160,7 +160,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-mewtwo-figure-collection-S5SWBS": {
-  "stav": "neznamo",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Mewtwo Figure Collection",
   "obchod": "Najáda"
  },
@@ -325,7 +325,7 @@
   "obchod": "Nekonečno"
  },
  "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-booster-bundle/": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "Pokémon TCG: 30th Celebration Booster Bundle",
   "obchod": "Nekonečno"
  },
@@ -365,7 +365,7 @@
   "obchod": "Realmerch"
  },
  "https://www.realmerch.store/pokemon-tcg--30th-celebration-booster-bundle/": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon TCG: 30th Celebration Booster Bundle",
   "obchod": "Realmerch"
  },
@@ -540,7 +540,7 @@
   "obchod": "Veselý drak"
  },
  "https://www.vesely-drak.cz/produkty/boostery/19141-pokemon-30th-celebration-booster/": {
-  "stav": "pripravuje",
+  "stav": "nedostupne",
   "nazev": "Pokémon 30th Celebration Booster",
   "obchod": "Veselý drak"
  },
@@ -708,6 +708,11 @@
  "https://cernyrytir.cz/merch/detail/f9b6d4a0-55ab-42dc-b944-dc08c490bc23": {
   "stav": "skladem",
   "nazev": "Pokémon - 30th Celebration Ultra-Premium Collection - Umbreon ex",
+  "obchod": "Černý rytíř"
+ },
+ "https://cernyrytir.cz/merch/detail/bb7ee7aa-8f39-4847-ac73-265729dad386": {
+  "stav": "skladem",
+  "nazev": "Pokémon - 30th Celebration Booster - Traditional Chinese",
   "obchod": "Černý rytíř"
  }
 }
