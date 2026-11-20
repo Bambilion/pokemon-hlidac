@@ -165,7 +165,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-umbreon-ex-battle-deck-SYCM5E": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration: Umbreon ex Battle Deck",
   "obchod": "Najáda"
  },
@@ -714,5 +714,20 @@
   "stav": "skladem",
   "nazev": "Pokémon - 30th Celebration Booster - Traditional Chinese",
   "obchod": "Černý rytíř"
+ },
+ "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-ultra-premium-collection-day": {
+  "stav": "pripravuje",
+  "nazev": "Pokémon TCG: 30th Celebration Ultra Premium Collection - Day",
+  "obchod": "Kitstore"
+ },
+ "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-ultra-premium-collection-night": {
+  "stav": "pripravuje",
+  "nazev": "Pokémon TCG: 30th Celebration Ultra Premium Collection - Night",
+  "obchod": "Kitstore"
+ },
+ "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-booster": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Booster",
+  "obchod": "Kitstore"
  }
 }
