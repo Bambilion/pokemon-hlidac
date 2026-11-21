@@ -265,7 +265,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-elite-trainer-box-DJ8BID": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration Elite Trainer Box",
   "obchod": "Najáda"
  },
@@ -405,7 +405,7 @@
   "obchod": "Realmerch"
  },
  "https://www.realmerch.store/pokemon-tcg--30th-celebration-booster/": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "Pokémon TCG: 30th Celebration Booster",
   "obchod": "Realmerch"
  },
