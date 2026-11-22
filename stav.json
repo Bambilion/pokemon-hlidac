@@ -154,7 +154,7 @@
   "obchod": "Kitstore"
  },
  "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-futuristic-box-japanese": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon TCG: 30th Celebration Futuristic Box (Japanese)",
   "obchod": "Kitstore"
  },
@@ -244,7 +244,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-binder-collection-IB2I7E": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration Binder Collection",
   "obchod": "Najáda"
  },
@@ -329,7 +329,7 @@
   "obchod": "Nekonečno"
  },
  "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-booster-bundle/": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon TCG: 30th Celebration Booster Bundle",
   "obchod": "Nekonečno"
  },
@@ -730,7 +730,7 @@
   "obchod": "Kitstore"
  },
  "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-booster": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon TCG: 30th Celebration Booster",
   "obchod": "Kitstore"
  }
