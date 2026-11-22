@@ -3,10 +3,10 @@
   "https://www.alza.cz/search.htm?exps=30th%20Celebration": 2,
   "https://www.najada.games/en/pokemon/30th-celebration": 0,
   "https://www.smarty.cz/Vyhledavani?query=Pok%C3%A9mon+TCG+30th+Celebration": 2,
-  "https://www.cardstore.cz/30-vyroci-pokemon-karet/": 1,
-  "https://www.cdmc.cz/30th-celebration/": 1,
-  "https://www.nekonecno.sk/pokemon-30th-celebration/": 1,
-  "https://www.realmerch.store/30th-celebration/": 1
+  "https://www.cardstore.cz/30-vyroci-pokemon-karet/": 0,
+  "https://www.cdmc.cz/30th-celebration/": 0,
+  "https://www.nekonecno.sk/pokemon-30th-celebration/": 0,
+  "https://www.realmerch.store/30th-celebration/": 0
  },
  "https://www.cardstore.cz/pokemon-tcg--30th-celebration-booster/": {
   "stav": "neznamo",
@@ -244,7 +244,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-binder-collection-IB2I7E": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "30th Celebration Binder Collection",
   "obchod": "Najáda"
  },
@@ -643,7 +643,7 @@
   "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Tech Sticker Collection Alolan Exeggutor",
   "obchod": "Xzone"
  },
- "_den": "2026-11-21",
+ "_den": "2026-11-22",
  "https://www.najada.games/en/product/30th-celebration-espeon-ultra-premium-collection-FOUPGG": {
   "stav": "neznamo",
   "nazev": "30th Celebration: Espeon Ultra-Premium Collection",
