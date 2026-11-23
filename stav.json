@@ -244,7 +244,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-binder-collection-IB2I7E": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration Binder Collection",
   "obchod": "Najáda"
  },
@@ -384,7 +384,7 @@
   "obchod": "Realmerch"
  },
  "https://www.realmerch.store/pokemon-tcg--30th-celebration-figure-collection-mewtwo/": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon TCG: 30th Celebration Figure Collection - Mewtwo",
   "obchod": "Realmerch"
  },
@@ -732,6 +732,16 @@
  "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-booster": {
   "stav": "nedostupne",
   "nazev": "Pokémon TCG: 30th Celebration Booster",
+  "obchod": "Kitstore"
+ },
+ "https://www.cdmc.cz/premiove-kolekce/pokemon-tcg--30th-celebration-mew-promo-karta-jumbo-promo-karta/": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Mew promo karta + JUMBO promo karta + figurka (2587)",
+  "obchod": "CDMC"
+ },
+ "https://www.kitstore.cz/p/pokemon-tcg-30th-celebration-booster-box-japanese": {
+  "stav": "skladem",
+  "nazev": "Pokémon TCG: 30th Celebration Booster Box (Japanese)",
   "obchod": "Kitstore"
  }
 }
