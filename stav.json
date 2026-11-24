@@ -259,7 +259,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-eevee-2-pack-blister-WXB2NG": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Eevee 2-Pack Blister",
   "obchod": "Najáda"
  },
@@ -279,12 +279,12 @@
   "obchod": "Nekonečno"
  },
  "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-figure-collection-mew/": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "Pokémon TCG: 30th Celebration Figure Collection - Mew",
   "obchod": "Nekonečno"
  },
  "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-figure-collection-mewtwo/": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "Pokémon TCG: 30th Celebration Figure Collection - Mewtwo",
   "obchod": "Nekonečno"
  },
@@ -299,12 +299,12 @@
   "obchod": "Nekonečno"
  },
  "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-ultra-premium-collection-day/": {
-  "stav": "predobjednavka",
+  "stav": "skladem",
   "nazev": "Pokémon TCG: 30th Celebration Ultra Premium Collection - Day",
   "obchod": "Nekonečno"
  },
  "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-ultra-premium-collection-night/": {
-  "stav": "predobjednavka",
+  "stav": "skladem",
   "nazev": "Pokémon TCG: 30th Celebration Ultra Premium Collection - Night",
   "obchod": "Nekonečno"
  },
@@ -429,7 +429,7 @@
   "obchod": "Realmerch"
  },
  "https://www.realmerch.store/pokemon-tcg--30th-celebration-mini-tin---1-nahodny-motiv/": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon TCG: 30th Celebration Mini Tin",
   "obchod": "Realmerch"
  },
@@ -665,12 +665,12 @@
   "obchod": "Cardstore"
  },
  "https://www.xzone.cz/karetni-hra-pokemon-tcg-30th-celebration-ultrapremium-collection-day": {
-  "stav": "predobjednavka",
+  "stav": "pripravuje",
   "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Ultra-Premium Collection - Day",
   "obchod": "Xzone"
  },
  "https://www.xzone.cz/karetni-hra-pokemon-tcg-30th-celebration-ultrapremium-collection-night": {
-  "stav": "predobjednavka",
+  "stav": "pripravuje",
   "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Ultra-Premium Collection - Night",
   "obchod": "Xzone"
  },
@@ -680,7 +680,7 @@
   "obchod": "Kitstore"
  },
  "https://www.najada.games/en/product/30th-celebration-umbreon-ultra-premium-collection-BW7SZX": {
-  "stav": "nedostupne",
+  "stav": "neznamo",
   "nazev": "30th Celebration: Umbreon Ultra-Premium Collection",
   "obchod": "Najáda"
  },
