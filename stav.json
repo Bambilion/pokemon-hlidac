@@ -84,7 +84,7 @@
   "obchod": "CDMC"
  },
  "https://cernyrytir.cz/merch/detail/e7d0ab2a-587e-435c-b207-d863c7fb330e": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon - 30th Celebration Battle Deck - Espeon ex",
   "obchod": "Černý rytíř"
  },
@@ -650,7 +650,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-ditto-premium-collection-XZS4Z3": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Ditto Premium Collection",
   "obchod": "Najáda"
  },
@@ -705,7 +705,7 @@
   "obchod": "Černý rytíř"
  },
  "https://cernyrytir.cz/merch/detail/fb3c392d-21b6-45ec-9012-0537802b29d5": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon - 30th Celebration Ultra-Premium Collection - Espeon ex",
   "obchod": "Černý rytíř"
  },
