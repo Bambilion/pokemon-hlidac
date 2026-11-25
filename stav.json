@@ -384,7 +384,7 @@
   "obchod": "Realmerch"
  },
  "https://www.realmerch.store/pokemon-tcg--30th-celebration-figure-collection-mewtwo/": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon TCG: 30th Celebration Figure Collection - Mewtwo",
   "obchod": "Realmerch"
  },
@@ -650,7 +650,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-ditto-premium-collection-XZS4Z3": {
-  "stav": "neznamo",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Ditto Premium Collection",
   "obchod": "Najáda"
  },
@@ -700,7 +700,7 @@
   "obchod": "Černý rytíř"
  },
  "https://cernyrytir.cz/merch/detail/95645e62-3d1a-470a-b3ea-243aab4e7a9e": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "Pokémon - 30th Celebration Figure Collection - Mewtwo",
   "obchod": "Černý rytíř"
  },
