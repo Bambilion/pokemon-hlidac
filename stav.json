@@ -309,7 +309,7 @@
   "obchod": "Nekonečno"
  },
  "https://www.nekonecno.sk/pokemon-tcg-japan-30th-celebration-booster-pack/": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "Pokémon TCG Japan: 30th Celebration Booster Pack",
   "obchod": "Nekonečno"
  },
@@ -334,7 +334,7 @@
   "obchod": "Nekonečno"
  },
  "https://www.nekonecno.sk/pokemon-tcg-30th-celebration-elite-trainer-box/": {
-  "stav": "nedostupne",
+  "stav": "skladem",
   "nazev": "Pokémon TCG: 30th Celebration Elite Trainer Box",
   "obchod": "Nekonečno"
  },
@@ -374,7 +374,7 @@
   "obchod": "Realmerch"
  },
  "https://www.realmerch.store/pokemon-tcg--30th-celebration-elite-trainer-box/": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "Pokémon TCG: 30th Celebration Elite Trainer Box",
   "obchod": "Realmerch"
  },
@@ -650,7 +650,7 @@
   "obchod": "Najáda"
  },
  "https://www.najada.games/en/product/30th-celebration-ditto-premium-collection-XZS4Z3": {
-  "stav": "skladem",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Ditto Premium Collection",
   "obchod": "Najáda"
  },
@@ -743,5 +743,20 @@
   "stav": "skladem",
   "nazev": "Pokémon TCG: 30th Celebration Booster Box (Japanese)",
   "obchod": "Kitstore"
+ },
+ "https://www.xzone.cz/karetni-hra-pokemon-tcg-30th-celebration-elite-trainer-box": {
+  "stav": "pripravuje",
+  "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Elite Trainer Box",
+  "obchod": "Xzone"
+ },
+ "https://www.xzone.cz/karetni-hra-pokemon-tcg-30th-celebration-ditto-premium-collection": {
+  "stav": "pripravuje",
+  "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Ditto Premium Collection",
+  "obchod": "Xzone"
+ },
+ "https://www.xzone.cz/karetni-hra-pokemon-tcg-30th-celebration-binder-collection": {
+  "stav": "pripravuje",
+  "nazev": "Karetní hra Pokémon TCG: 30th Celebration - Binder Collection",
+  "obchod": "Xzone"
  }
 }
