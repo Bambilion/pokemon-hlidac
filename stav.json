@@ -19,8 +19,8 @@
   "obchod": "Cardstore"
  },
  "https://www.cardstore.cz/pokemon-tcg--30th-celebration-elite-trainer-box/": {
-  "stav": "neznamo",
-  "nazev": "Pokémon TCG: 30th Celebration - Elite Trainer Box 3 799 Kč",
+  "stav": "nedostupne",
+  "nazev": "Pokémon TCG: 30th Celebration - Elite Trainer Box",
   "obchod": "Cardstore"
  },
  "https://www.cardstore.cz/pokemon-tcg--30th-celebration-booster-bundle/": {
@@ -680,7 +680,7 @@
   "obchod": "Kitstore"
  },
  "https://www.najada.games/en/product/30th-celebration-umbreon-ultra-premium-collection-BW7SZX": {
-  "stav": "neznamo",
+  "stav": "nedostupne",
   "nazev": "30th Celebration: Umbreon Ultra-Premium Collection",
   "obchod": "Najáda"
  },
